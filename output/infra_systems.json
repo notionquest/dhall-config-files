@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "cpus": 1,
+      "gigabytesOfRAM": 1,
+      "hostName": "eu-west.example.com",
+      "terabytesOfDisk": 1
+    },
+    {
+      "cpus": 64,
+      "gigabytesOfRAM": 256,
+      "hostName": "us-east.example.com",
+      "terabytesOfDisk": 16
+    },
+    {
+      "cpus": 64,
+      "gigabytesOfRAM": 256,
+      "hostName": "ap-northeast.example.com",
+      "terabytesOfDisk": 16
+    },
+    {
+      "cpus": 8,
+      "gigabytesOfRAM": 16,
+      "hostName": "us-west.example.com",
+      "terabytesOfDisk": 4
+    },
+    {
+      "cpus": 1,
+      "gigabytesOfRAM": 1,
+      "hostName": "sa-east.example.com",
+      "terabytesOfDisk": 1
+    },
+    {
+      "cpus": 64,
+      "gigabytesOfRAM": 256,
+      "hostName": "ca-central.example.com",
+      "terabytesOfDisk": 16
+    }
+  ]
+]
