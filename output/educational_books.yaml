@@ -1,0 +1,12 @@
+- - department: Books
+    category: Nonfiction
+    title: Microservices for Java Developers
+    publisher: O'Reilly Media
+  - department: Books
+    category: Nonfiction
+    title: The Go Programming Language
+    publisher: Addison Wesley
+  - department: Books
+    category: Nonfiction
+    title: Parallel and Concurrent Programming in Haskell
+    publisher: O'Reilly Media

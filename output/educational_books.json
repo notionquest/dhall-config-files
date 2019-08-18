@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "category": "Nonfiction",
+      "department": "Books",
+      "publisher": "O'Reilly Media",
+      "title": "Microservices for Java Developers"
+    },
+    {
+      "category": "Nonfiction",
+      "department": "Books",
+      "publisher": "Addison Wesley",
+      "title": "The Go Programming Language"
+    },
+    {
+      "category": "Nonfiction",
+      "department": "Books",
+      "publisher": "O'Reilly Media",
+      "title": "Parallel and Concurrent Programming in Haskell"
+    }
+  ]
+]
